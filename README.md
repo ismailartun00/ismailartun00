@@ -1,9 +1,9 @@
 <h2 align="center"> Hey there! I'm Ismail. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
 
-<a href="https://www.instagram.com/ismailartun00"><img align="left" src="https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white" alt="Instagram"></a>
-<a href="https://www.linkedin.com/in/ismailartun00"><img align="left" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white" alt="Linkedin"></a>
-<a href="mailto:ismailartun00@gmail.com"><img align="left" src="https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white" alt="Gmail"></a>
-<a href="https://github.com/ismailartun00"><img align="left" src="https://img.shields.io/badge/-Github-333?style=flat&logo=Github&logoColor=white&align=right" alt="Github"></a>
+<a href="https://www.instagram.com/ismailartun00" target="_blank"><img align="left" src="https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white" alt="Instagram"></a>
+<a href="https://www.linkedin.com/in/ismailartun00" target="_blank"><img align="left" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white" alt="Linkedin"></a>
+<a href="mailto:ismailartun00@gmail.com" target="_blank"><img align="left" src="https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white" alt="Gmail"></a>
+<a href="https://github.com/ismailartun00" target="_blank"><img align="left" src="https://img.shields.io/badge/-Github-333?style=flat&logo=Github&logoColor=white&align=right" alt="Github"></a>
 
 <a href="https://komarev.com/ghpvc/?username=ismailartun00"><img align="right" src="https://komarev.com/ghpvc/?username=ismailartun00" alt="ismailartun00" /></a>
 
