@@ -31,7 +31,7 @@
 - 🔧 &nbsp; Android Studio | Visual Studio | Visual Studio code | Eclipse | Intellij IDEA | Dreamweaver | Git
 - 🖥 &nbsp; Adobe Xd | Photoshop | Fireworks
 
-<br><br>
+<!--<br><br>-->
 
 <p align=center>
   <a href="https://github.com/ismailartun00/ismailartun00" title="Go to Source">
