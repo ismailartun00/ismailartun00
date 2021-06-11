@@ -37,6 +37,15 @@
 
 <a href="https://github-readme-stats.vercel.app/api?username=ismailartun00&include_all_commits=true&count_private=true&show_icons=true&line_height=19&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40"><img src="https://github-readme-stats.vercel.app/api?username=ismailartun00&include_all_commits=true&count_private=true&show_icons=true&line_height=19&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="ismailartun00's Github Stats"></a>
 
+<p align=center>
+  <a href="https://github.com/ismailartun00/ismailartun00" title="Go to Source">
+    <img height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=ismailartun00&show_icons=true&theme=gotham">
+  </a>
+  <a href="https://github.com/ismailartun00/ismailartun00">
+  <img height=175 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ismailartun00&hide=c%23,powershell,java&title_color=2aa889&text_color=99d1ce&icon_color=2bbc8a&bg_color=0c1014&langs_count=8&layout=compact" />
+  </a>
+</p>
+
 <br><br>
 
 ⭐️ From [Ismail Artun](https://github.com/ismailartun00) 
